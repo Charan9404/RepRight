@@ -26,7 +26,7 @@ export default function Navbar() {
                             <img src="logo.png" alt="logo" className="w-36 rounded-full" />
                         </span>  */}
                         <button onClick={() => router.push('/')}>
-                            FitFrame
+                            RepRight
                         </button>
                     </div>
                     

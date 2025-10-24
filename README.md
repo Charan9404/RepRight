@@ -1,4 +1,4 @@
-# FitFrame
+# RepRight
 
 A comprehensive fitness tracking application built with Next.js, featuring AI-powered pose detection, workout tracking, and personalized diet recommendations.
 
@@ -32,7 +32,7 @@ A comprehensive fitness tracking application built with Next.js, featuring AI-po
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd fitframe
+cd repright
 ```
 
 2. Install dependencies:
