@@ -1,4 +1,4 @@
-# RepRight
+# RepRight(Prvsly FitFrame)
 
 A comprehensive fitness tracking application built with Next.js, featuring AI-powered pose detection, workout tracking, and personalized diet recommendations.
 
